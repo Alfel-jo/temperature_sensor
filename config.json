@@ -1,0 +1,11 @@
+{
+    "wifi": {
+        "ssid": "YOUR_WIFI_SSID",
+        "password": "YOUR_WIFI_PASSWORD"
+    },
+    "mqtt": {
+        "broker_url": "IP_ADDRESS",
+        "username": "USERNAME",
+        "password": "CHANGE_ME_BEFORE_DEPLOY"
+    }
+}
